@@ -1,4 +1,4 @@
 beautifulsoup4==4.3.2
 lxml==3.4.4
 requests==2.7.0
--e git+https://github.com/Surye/ratebeer.git@d439e269f599876a8a67fe6e12503fc49bbb19d0#egg=ratebeer-origin/HEAD
+-e git+https://github.com/Surye/ratebeer.git#egg=ratebeer
