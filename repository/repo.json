@@ -1,7 +1,7 @@
 {
     "name": "beer",
     "description": "Use RateBeer to search for beer stats.",
-    "version": "1.1",
+    "version": "1.2",
     "default_enable": ["RateBeer"],
     "homepage": "https://github.com/datamachine/telegram-pybot-beer",
     "repo": "https://github.com/datamachine/telegram-pybot-beer.git",
