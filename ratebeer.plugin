@@ -5,5 +5,5 @@ Module = ratebeer
 [Documentation]
 Author = Vincent Castellano
 Version = 1.0
-Website = https://github.com/datamachine/telegram-pybot-ratebeer
+Website = https://github.com/datamachine/telex-ratebeer
 Description = Query and display beer info from RateBeer.com!

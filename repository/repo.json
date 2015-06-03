@@ -3,7 +3,7 @@
     "description": "Use RateBeer to search for beer stats.",
     "version": "1.2",
     "default_enable": ["RateBeer"],
-    "homepage": "https://github.com/datamachine/telegram-pybot-beer",
-    "repo": "https://github.com/datamachine/telegram-pybot-beer.git",
+    "homepage": "https://github.com/datamachine/telex-beer",
+    "repo": "https://github.com/datamachine/telex-beer.git",
     "branch": "master"
 }
