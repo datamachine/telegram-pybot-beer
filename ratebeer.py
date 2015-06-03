@@ -1,8 +1,8 @@
-from telegrambot.plugin import TelegramPlugin
+from telex.plugin import TelexPlugin
 from ratebeer import RateBeer
 from ratebeer import rb_exceptions
 
-class RateBeerPlugin(TelegramPlugin):
+class RateBeerPlugin(TelexPlugin):
     rb = RateBeer()
 
     patterns = {
